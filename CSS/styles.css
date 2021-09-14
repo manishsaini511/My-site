@@ -19,13 +19,16 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
     font-weight: normal;
+    padding-bottom: 10px;
 }
 
 h3 {
     color: #8FD6E1;
     font-family: 'Montserrat', sans-serif;
 }
-
+p{
+    line-height: 2;
+}
 .top-container {
     background-color: #F0E5CF;
     position: relative;
@@ -33,7 +36,9 @@ h3 {
 }
 
 
-.middle-container {}
+.middle-container {
+margin:100px 0;
+}
 
 .bottom-container {}
 
@@ -41,26 +46,34 @@ h3 {
 text-align: left;
  width: 50%;
  margin: 100px auto;
- line-height: 2;
+
 }
 .web {
     text-decoration: underline;
 }
+.intro{
+    width: 30%;
+    margin: auto;
+}
 
 .bottom-cloud {
     position: absolute;
-    left: 400px;
-    bottom: 300px;
+    left: 100px;
+    bottom: 310px;
 }
 
 .top-cloud {
     position: absolute;
-    right: 400px;
-    top: 50px;
+    right: 100px;
+    top: 40px;
 }
 .code-img{
     width: 25%;
+    float: left;
+    margin-right: 30px;
 }
 .chilli-img{
     width: 25%;
+    float: right;
+    margin-left: 30px;
 }
