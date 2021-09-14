@@ -1,7 +1,9 @@
 body {
+    color: #40514E;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    
 }
 
 h1 {
@@ -36,8 +38,8 @@ h3 {
 .bottom-container {}
 
 .skill-row{
-    text-align: left;
-    width: ;
+ width: 50%;
+ margin: auto;
 }
 .web {
     text-decoration: underline;
