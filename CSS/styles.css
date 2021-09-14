@@ -70,13 +70,13 @@ text-align: left;
 
 .bottom-cloud {
     position: absolute;
-    left: 100px;
+    left: 250px;
     bottom: 310px;
 }
 
 .top-cloud {
     position: absolute;
-    right: 40px;
+    right: 250px;
     top: 10px;
 }
 .code-img{
