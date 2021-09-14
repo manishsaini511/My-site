@@ -38,8 +38,10 @@ h3 {
 .bottom-container {}
 
 .skill-row{
+text-align: left;
  width: 50%;
- margin: auto;
+ margin: 100px auto;
+ line-height: 2;
 }
 .web {
     text-decoration: underline;
@@ -55,4 +57,10 @@ h3 {
     position: absolute;
     right: 400px;
     top: 50px;
+}
+.code-img{
+    width: 25%;
+}
+.chilli-img{
+    width: 25%;
 }
